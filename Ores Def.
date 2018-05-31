@@ -1,0 +1,11 @@
+def stone(self):
+
+
+def iron(self):
+
+
+def copper(self):
+
+
+def gold(self):
+
